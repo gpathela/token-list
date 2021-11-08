@@ -22928,5 +22928,18 @@
       ],
       "extensions": {
         "website": "https://dockcoin.me/"
-      }
+      },
+  "chainId": 101,
+  "address": "C4xWe67MMg5zJia7gZ8BmH2btvCfMeSMWRVWXCGvoAfG",
+  "symbol": "PSCHARM",
+  "name": "PSCHARM",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C4xWe67MMg5zJia7gZ8BmH2btvCfMeSMWRVWXCGvoAfG/logo.png",
+  "tags": [
+      "utility-token", "nft", "tokenized-stock"
+  ],
+  "extensions": {
+      "website": "https://www.charmtoken.net",
+      "twitter":"https://twitter.com/charm_token"      
+  }
 }
